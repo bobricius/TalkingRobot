@@ -1,0 +1,74 @@
+Partlist
+
+Exported from robotrev2.brd at 2. 2. 2017 22:51
+
+EAGLE Version 7.6.0 Copyright (c) 1988-2016 CadSoft
+
+Assembly variant: 
+
+Part          Value                   Package                 Library                       Position (mil)        Orientation
+
+1                                     TACTILE-SWITCH-1101NE   SparkFun                      (1757.5 281.25)       R180
+2                                     TACTILE-SWITCH-1101NE   SparkFun                      (507.5 275)           R180
+3                                     TACTILE-SWITCH-1101NE   SparkFun                      (1457.5 1013.75)      R135
+3V3           3V3                     SOT23                   okie                          (1145 962.5)          R180
+4                                     TACTILE-SWITCH-1101NE   SparkFun                      (807.5 1012.5)        R45
+5                                     TACTILE-SWITCH-1101NE   SparkFun                      (1863.75 1837.5)      R270
+6                                     TACTILE-SWITCH-1101NE   SparkFun                      (395 1837.5)          R270
+7                                     TACTILE-SWITCH-1101NE   SparkFun                      (1757.5 2631.25)      R315
+8                                     TACTILE-SWITCH-1101NE   SparkFun                      (507.5 2637.5)        R45
+BATTERY                               BATTCOM_20MM_PTH        es                            (1130 2895)           R270
+BATTERYENABLE SOLDERJUMPERNO          SJ_2S-NO                SparkFun                      (730 2590)            R180
+C1            10uF                    C0603                   rc-master-smd                 (740 2690)            R180
+C2            100                     153CLV-0605             resistor                      (1128.75 3808.75)     R270
+C3            10uF                    C0603                   rc-master-smd                 (1030 2870)           R270
+C4            100n                    C0603                   rc-master-smd                 (1282.5 981.25)       R90
+C5            100n                    C0603                   rc-master-smd                 (1001.25 975)         R270
+C6            100n                    C0603                   rc-master-smd                 (1410 1595)           R270
+C7            100n                    C0603                   rc-master-smd                 (855 1595)            R90
+CHARGER                               SML0603                 led                           (920 2850)            R0
+IC1           74HCT14D                SO14                    74xx-eu                       (1129 3430)           R180
+IC2           MCP73831                SOT23-5                 SparkFunNew                   (745 2825)            R90
+JP1                                   1X02                    pinhead                       (1470 2000)           MR270
+JP2                                   1X02                    pinhead                       (795 1995)            R270
+JP3                                   1X09                    pinhead                       (1130 1595)           MR270
+JP5                                   1X02                    pinhead                       (620 3650)            R90
+JP6                                   1X02                    pinhead                       (1645 3650)           R270
+L1                                    SML0603                 led                           (1595 450)            R0
+L2                                    SML0603                 led                           (670 450)             R0
+L3                                    SML0603                 led                           (2020 250)            R0
+L4                                    SML0603                 led                           (245 250)             R0
+L5                                    SML0603                 led                           (1745 1425)           R0
+L6                                    SML0603                 led                           (520 1425)            R0
+L7                                    SML0603                 led                           (1995 1425)           R0
+L8                                    SML0603                 led                           (270 1425)            R0
+LEDCH         1k                      R0603                   rcl                           (905 2790)            R180
+PB1                                   SML0603                 led                           (1391.25 3793.75)     R0
+PB3                                   SML0603                 led                           (885 3800)            R0
+PLAY2                                 SML0603                 led                           (1130 2820)           R0
+R1            1k                      R0603                   resistor                      (1470 2650)           R270
+R2            1k                      R0603                   resistor                      (1391.25 3925)        R180
+R3            1k                      R0603                   resistor                      (1695 450)            R90
+R4            1k                      R0603                   resistor                      (885 3925)            R0
+R5            1k                      R0603                   resistor                      (570 450)             R90
+R6            256k                    R0603                   resistor                      (1424 3425)           R45
+R7            1k                      R0603                   resistor                      (1770 450)            R90
+R8            1k                      R0603                   resistor                      (495 450)             R90
+R9            1k                      R0603                   resistor                      (1745 1550)           R90
+R10           1k                      R0603                   resistor                      (520 1550)            R90
+R11           1k                      R0603                   resistor                      (1995 1550)           R90
+R12           1k                      R0603                   resistor                      (270 1550)            R90
+R13           1k                      R0603                   resistor                      (1389 3510)           R45
+R14           200                     R0603                   resistor                      (824 3425)            R135
+R15           56                      R0603                   resistor                      (859 3510)            R315
+RPROG         22K                     R0603                   rcl                           (595 2825)            R0
+S1            SWITCH-MOMENTARY-LEDPTH TACTILE-PTH-LED-12MM    Local Library                 (1130 2495)           R90
+U$1           AVR_SPI_PRG_6NS         2X3-NS                  SparkFun                      (1132.75 2488.75)     MR180
+U$3           MOUNTINGHOLE2.0         MOUNTINGHOLE_2.0_PLATED microbuilder                  (1901.25 2125)        R0
+U$4           MOUNTINGHOLE2.0         MOUNTINGHOLE_2.0_PLATED microbuilder                  (363.75 2125)         R0
+U$6           MOUNTINGHOLE2.0         MOUNTINGHOLE_2.0_PLATED microbuilder                  (588.75 706.25)       R0
+U$7           MOUNTINGHOLE2.0         MOUNTINGHOLE_2.0_PLATED microbuilder                  (1676.25 706.25)      R0
+U$9           MICROSD_PP              MICROSD_PP              DE1594-v2                     (1114.75 3326.5)      MR90
+U1            ATTINY861A-SU           SOIC127P1032X265-20N    Atmel_By_element14_Batch_1-00 (1131.25 1595)        R0
+USB1          USB-MICROBLARGEPAD      USB-MICROB_LARGEPAD     zak                           (1773 2665)           MR225
+X5            USBSMD                  USB-MINIB               SparkFun                      (520 2595)            MR223
